@@ -41,12 +41,12 @@ section{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 article{
     width: 45%;
-    height: 50%;
+    height: 60%;
     box-shadow: 10px 10px 10px  blue inset,10px 10px 10px  blue;
     border-radius: 5rem;
     display: flex;
@@ -58,6 +58,7 @@ article{
 .divText{
     width: 90%;
     align-self: center;
+    font-size: 2rem;
 }
 
 article form{
